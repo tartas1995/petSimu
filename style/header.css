@@ -1,0 +1,5 @@
+header {
+    height: var(--header-height);
+    width: 100vw;
+    background-color: red;
+}
